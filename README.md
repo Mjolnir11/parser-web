@@ -19,13 +19,13 @@ dir /fonts
 
 Чтоб у вас все работало вам нужно установить Python не ниже 3x версии и pip ссылки на них я оставлю ниже 
 
+ <p><a href="https://www.python.org">Ссылка на python</a></p>
+ <p><a href="https://pypi.org/project/pip">Ссылка на pip</a></p>
+ 
+
 Так же вам понадобиться библиотека bs4 она устанавливаеться с помощью pip
 
 ```html
 pip install bs4 или pip install beautifulsoup4
 ```
  
- <p><a href="https://www.python.org">Ссылка на python</a></p>
- <p><a href="https://pypi.org/project/pip">Ссылка на pip</a></p>
- 
-
